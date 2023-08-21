@@ -1,0 +1,17 @@
+.intro {
+  position: relative;
+  left: 600px;
+  top: 25px;
+}
+
+.about {
+  position: relative;
+  left: 550px;
+  top: 100px;
+}
+
+.end {
+  position: fixed;
+  right: 600px;
+  top: 450px;
+}
